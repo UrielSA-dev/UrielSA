@@ -16,7 +16,7 @@
 
 <hr>
 
-<h2>Snake 🐍</h2>
+<h2>GitHub :octocat:</h2>
 
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UrielSA-dev/UrielSA-dev/output/github-contribution-grid-snake.svg">
