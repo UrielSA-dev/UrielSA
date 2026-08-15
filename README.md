@@ -4,10 +4,6 @@
   <b>🎓 Estudiante en Hybridge</b> | <b>🚀 En busca de aprender y ser de los mejores</b>
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5e/65/1d/5e651ddb2d45f4f6ca418c1a653669cb.gif" width="300px">
-</p>
-
 <hr>
 
 <h2>🚀 Sobre mí</h2>
@@ -23,5 +19,5 @@
 <h2>Snake 🐍</h2>
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UrielSA-dev/UrielSA/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UrielSA-dev/UrielSA-dev/output/github-contribution-grid-snake.svg">
 </p>
