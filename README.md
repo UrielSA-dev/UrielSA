@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/UrielSA/UrielSA/output/snake-purple.svg
+https://raw.githubusercontent.com/UrielSA-dev/UrielSA/output/snake-purple.svg
