@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Uriel 👋</h1>
 
 <p align="center">
-  <b>🎓 Estudiante en Hybridge</b> | <b>🚀 En busca de aprender y ser de los mejores</b>
+  <b>🎓 Estudiante de Ingeniería de Software</b> | <b>🚀 En busca de aprender y ser de los mejores</b>
 </p>
 
 <hr>
