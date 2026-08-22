@@ -19,6 +19,9 @@
 <hr2>💻 IDE</hr2>
 
 <img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=phpstorm" />
+<img src="https://skillicons.dev/icons?i=sublime" />
 </p>
 
 <hr>
