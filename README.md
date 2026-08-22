@@ -27,7 +27,8 @@
 
 <h2>💻 𝐈𝐃𝐄</h2>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime, netbeans" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime," />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" width="48" alt="NetBeans">
 </p>
 
 <hr>
