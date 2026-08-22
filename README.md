@@ -35,10 +35,11 @@
 
 <hr>
 
-<hr2>📫 Contact</hr2>
+<h2>📫 Contact</h2>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=discord" />
-  <b style="margin-left: 5px;">lilbossgrim777</b>
-</div>
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=discord" width="25" /></td>
+    <td><b>lilbossgrim777</b></td>
+  </tr>
+</table>
