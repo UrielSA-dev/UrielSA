@@ -42,4 +42,12 @@
     <td><img src="https://skillicons.dev/icons?i=discord" width="25" /></td>
     <td><b>lilbossgrim777</b></td>
   </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=gmail" width="25" /></td>
+    <td><a href="mailto:tuemail@gmail.com">tuemail@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linkedin" width="25" /></td>
+    <td><a href="https://www.linkedin.com/in/tuusuario/">LinkedIn</a></td>
+  </tr>
 </table>
