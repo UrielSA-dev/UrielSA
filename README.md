@@ -12,9 +12,9 @@
 <h2>🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <ul>
-  <li>🎓 En constante aprendizaje y desarrollo en tecnología y programación.</b>.</li>
+  <li>🎓 En constante aprendizaje y desarrollo en tecnología y programación.</li>
   <li>💡 Enfocado en mejorar cada día y superar mis propios límites.</li>
-  <li>💻 Apasionado por la tecnología y la programación.</li>
+  <li>💻 Apasionado por la tecnología, la programación y la creación de soluciones.</li>
 </ul>
 
 <hr>
