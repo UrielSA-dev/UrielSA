@@ -12,7 +12,7 @@
 <h2>🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <ul>
-  <li>🎓 Estudiante actual en <b>Hybridge</b>.</li>
+  <li>🎓 En constante aprendizaje y desarrollo en tecnología y programación.</b>.</li>
   <li>💡 Enfocado en aprender cada día y superarme para ser de los mejores.</li>
   <li>💻 Apasionado por la tecnología y la programación.</li>
 </ul>
