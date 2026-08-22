@@ -35,6 +35,6 @@
 
 <hr>
 
-<hr2>##📫 Contact</hr2>
+<hr2>📫 Contact</hr2>
 
-**Discord:** <img src="https://skillicons.dev/icons?i=discord" /> <b> lilbossgrim777
+<img src="https://skillicons.dev/icons?i=discord" /> <b> lilbossgrim777
