@@ -19,11 +19,11 @@
 
 <hr>
 
-<hr2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</hr2>
+<h3>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h3>
 
 <hr>
 
-<hr2>💻 𝐈𝐃𝐄</hr2>
+<h4>💻 𝐈𝐃𝐄</h4>
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime" />
 </p>
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h2>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h2>
+<h5>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h5>
 
 <table>
   <tr>
