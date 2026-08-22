@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 
-<h1 align="center">Hola, soy Uriel 👋</h1>
+<h1 align="center">Hello, i'm Uriel 👋</h1>
 
 <p align="center">
   <b>👨‍💻 Estudiante de Ingeniería en Software</b> | <b>🚀 En busca de aprender y ser de los mejores</b>
@@ -9,7 +9,7 @@
 
 <hr>
 
-<h2>🚀 Sobre mí</h2>
+<h2>🚀 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <ul>
   <li>🎓 Estudiante actual en <b>Hybridge</b>.</li>
@@ -19,11 +19,11 @@
 
 <hr>
 
-<hr2>👨‍💻 Languages</hr2>
+<hr2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</hr2>
 
 <hr>
 
-<hr2>💻 IDE</hr2>
+<hr2>💻 𝐈𝐃𝐄</hr2>
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime" />
 </p>
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h2>📫 Contact</h2>
+<h2>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h2>
 
 <table>
   <tr>
