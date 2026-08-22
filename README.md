@@ -16,11 +16,13 @@
 
 <hr>
 
+<hr2>👨‍💻 Languages</hr2>
+
+<hr>
+
 <hr2>💻 IDE</hr2>
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime" />
-</a>
 </p>
 
 <hr>
@@ -30,3 +32,9 @@
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
 </p>
+
+<hr>
+
+<hr2>##📫 Contact</hr2>
+
+**Discord:** <img src="https://skillicons.dev/icons?i=discord" /> <b> lilbossgrim777
