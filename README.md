@@ -27,9 +27,15 @@
 
 <h2>💻 𝐈𝐃𝐄</h2>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime," />
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" width="48" height="48" alt="Apache NetBeans" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="48" alt="PhpStorm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="48" alt="Sublime Text"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_netbeans.png" width="48" height="48" alt="Apache NetBeans"/>
 </p>
+
+<hr>
 
 <hr>
 
