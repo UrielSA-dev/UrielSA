@@ -37,4 +37,8 @@
 
 <hr2>📫 Contact</hr2>
 
-<img src="https://skillicons.dev/icons?i=discord" /> <b> lilbossgrim777
+<div style="display: flex; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=discord" />
+  <b style="margin-left: 5px;">lilbossgrim777</b>
+</div>
+</p>
