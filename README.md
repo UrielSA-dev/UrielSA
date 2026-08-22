@@ -30,7 +30,7 @@
 
 <hr>
 
-<h2>GitHub :octocat:</h2>
+<h5>𝐆𝐢𝐭𝐇𝐮𝐛 :octocat:</h5>
 
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h5>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h5>
+<h6>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h6>
 
 <table>
   <tr>
