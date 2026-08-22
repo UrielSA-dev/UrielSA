@@ -19,18 +19,18 @@
 
 <hr>
 
-<h3>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h3>
+<h2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
 
 <hr>
 
-<h4>💻 𝐈𝐃𝐄</h4>
+<h2>💻 𝐈𝐃𝐄</h2>
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,sublime" />
 </p>
 
 <hr>
 
-<h5>𝐆𝐢𝐭𝐇𝐮𝐛 :octocat:</h5>
+<h2>𝐆𝐢𝐭𝐇𝐮𝐛 :octocat:</h2>
 
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilbossgrim-dev/lilbossgrim-dev/output/github-contribution-grid-snake-dark.svg">
@@ -38,7 +38,7 @@
 
 <hr>
 
-<h6>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h6>
+<h2>📫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭</h2>
 
 <table>
   <tr>
