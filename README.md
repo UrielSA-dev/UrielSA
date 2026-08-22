@@ -21,6 +21,8 @@
 
 <h2>👨‍💻 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
 
+<img src="https://skillicons.dev/icons?i=github" />
+
 <hr>
 
 <h2>💻 𝐈𝐃𝐄</h2>
