@@ -4,7 +4,7 @@
 <h1 align="center">Hello, i'm Uriel 👋</h1>
 
 <p align="center">
-  <b>👨‍💻 Estudiante de Ingeniería en Software</b> | <b>🚀 En busca de aprender y ser de los mejores</b>
+  <b>👨‍💻 Estudiante de Ingeniería en Software</b> | <b>🚀 Aprendiendo, creando y buscando ser de los mejores</b>
 </p>
 
 <hr>
