@@ -13,7 +13,7 @@
 
 <ul>
   <li>🎓 En constante aprendizaje y desarrollo en tecnología y programación.</b>.</li>
-  <li>💡 Enfocado en aprender cada día y superarme para ser de los mejores.</li>
+  <li>💡 Enfocado en mejorar cada día y superar mis propios límites.</li>
   <li>💻 Apasionado por la tecnología y la programación.</li>
 </ul>
 
