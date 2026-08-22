@@ -18,6 +18,7 @@
 
 <hr2>💻 IDE</hr2>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vscode, idea, phpstorm, sublime" />
 </a>
 </p>
